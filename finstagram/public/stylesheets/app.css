@@ -1,0 +1,24 @@
+header {
+  background-color: #98acf8;
+  color: #456268;
+}
+body {
+  background-color: #bedcfa;
+  font-family: "Mansalva", cursive;
+}
+main {
+  background-color: #d0e8f2;
+  padding: 16px;
+}
+.finstagram-post {
+  margin-bottom: 48px;
+}
+.finstagram-post .user-info img {
+  border-radius: 50%;
+}
+a.photo:hover {
+  padding: 10px;
+}
+a.photo {
+  transition: padding 0.5s;
+}
