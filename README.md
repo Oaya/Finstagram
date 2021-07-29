@@ -28,7 +28,7 @@ Share your favourite sea animals picture and get likes and commnets from your fr
 
 ## Installation
   - sinatra `gem install sinatra`  and run with ruby `ruby finstagram.rb`
-  - sqlite3 `npm i sqlite3`
+  - sqlite3 `brew install sqlite3`
 
    
 ## Open in local browser
