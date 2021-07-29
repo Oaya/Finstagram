@@ -9,23 +9,14 @@ Share your favourite sea animals picture and get likes and commnets from your fr
 
 ## Demo
 
- - Log in page 
+ - Sign up page
 
 
-
+<img src="https://user-images.githubusercontent.com/74119671/127569272-c326c06b-9358-487d-945f-441bf46b0269.png">
 
 
  - Main page
 
-
-Add incomes, expenses and show them in the table. The pie chart shows each categorie's amount.
-<img width="1280" src="https://user-images.githubusercontent.com/74119671/122479878-a96a1f80-cf80-11eb-8a59-9bdc28a8f79a.png">
-
- - Profile page
-
-
- Profile page shows your whole incomes, expenses and monthly incomes and expenses with bar chart.
-<img width="1280" src="https://user-images.githubusercontent.com/74119671/122479876-a7a05c00-cf80-11eb-94f4-427a67e19693.png">
 
 ## Installation
 - React `npx create-react-app my-app cd my-app`  
