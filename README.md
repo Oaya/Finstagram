@@ -19,11 +19,17 @@ Share your favourite sea animals picture and get likes and commnets from your fr
 
 <img src="https://user-images.githubusercontent.com/74119671/127569634-e414222f-d11f-4f1d-a9dd-111642ada3b0.png">
 
+## Requirements
+   
+   - ruby
+   - sinatra 
+   - sqlite3
+
 
 ## Installation
-- ruby
-- sinatra 
-- sqlite3
+  - sinatra `gem install sinatra`  and run with ruby `ruby finstagram.rb`
+  - sqlite3 `npm i sqlite3`
+
    
 ## Open in local browser
    `bin/serve`
