@@ -1,5 +1,5 @@
 # finstagram
-Shart your favorite s
+Shart your favorite sea animals
 
 ## Environment Setup Instructions
 
